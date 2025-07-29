@@ -147,12 +147,3 @@ See their README files for specific build/run commands.
 GitHub: [@Abu4956](https://github.com/Abu4956)
 
 ---
-
-🎯 Thank you Adobe for this exciting opportunity to reimagine how we read, learn, and connect through documents!
-
-```
-
----
-
-Let me know if you'd like a `LICENSE`, GitHub badges, or help polishing the presentation for final submission.
-```
